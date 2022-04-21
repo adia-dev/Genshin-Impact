@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bazaar Diorama
+* source:	https://sketchfab.com/3d-models/bazaar-diorama-2a3aca59ca6e4d9f8aad90a88ae4cc0d
+* author:	rowebenj (https://sketchfab.com/rowbenj)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bazaar Diorama" (https://sketchfab.com/3d-models/bazaar-diorama-2a3aca59ca6e4d9f8aad90a88ae4cc0d) by rowebenj (https://sketchfab.com/rowbenj) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

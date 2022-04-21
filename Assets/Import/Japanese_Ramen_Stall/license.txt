@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Ramen Stall
+* source:	https://sketchfab.com/3d-models/japanese-ramen-stall-2e3ea2a141324c29be0a20d3bfe0c90d
+* author:	J. Beltran (https://sketchfab.com/ilchampo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Ramen Stall" (https://sketchfab.com/3d-models/japanese-ramen-stall-2e3ea2a141324c29be0a20d3bfe0c90d) by J. Beltran (https://sketchfab.com/ilchampo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
